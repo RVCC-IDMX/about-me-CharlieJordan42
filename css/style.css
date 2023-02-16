@@ -1,0 +1,32 @@
+body {
+    color:#05B0FE;
+    background-color: bisque;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Crimson Text', serif;
+}
+
+header {
+    text-align: center;
+    border:3px solid black;
+    border-color:#05B0FE;
+    padding: 1px;
+}
+
+#hero{
+    text-align: center;
+}
+
+#hero img {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    border:3px solid black;
+    border-color:#05B0FE;
+    padding: 1px;
+}
+
