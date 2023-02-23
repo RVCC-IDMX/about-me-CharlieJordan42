@@ -1,21 +1,28 @@
 body {
-    color:#05B0FE;
+    color: #05B0FE;
     background-color: bisque;
     font-family: 'Libre Baskerville', serif;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Crimson Text', serif;
+    font-family: 'Libre Baskerville', serif;
+
 }
 
 header {
     text-align: center;
-    border:3px solid black;
-    border-color:#05B0FE;
+    border: 3px solid black;
+    border-color: #05B0FE;
     padding: 1px;
 }
 
-#hero{
+#hero {
     text-align: center;
 }
 
@@ -25,8 +32,7 @@ header {
 
 #footer {
     text-align: center;
-    border:3px solid black;
-    border-color:#05B0FE;
+    border: 3px solid black;
+    border-color: #05B0FE;
     padding: 1px;
 }
-
