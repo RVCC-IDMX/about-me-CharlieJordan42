@@ -36,3 +36,16 @@ header {
     border-color: #05B0FE;
     padding: 1px;
 }
+
+#gallery {
+    text-align: center;
+    border: 2px solid #05B0FE;
+}
+
+#gallery img {
+    max-width: 100%;
+}
+
+#gallery figure {
+    text-align: center;
+}
