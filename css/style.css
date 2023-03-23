@@ -94,3 +94,33 @@ header {
     }
     
 }
+#lit div p:first-child::first-letter{
+    float: left;
+    font-size: 3em;
+    padding: .25em;
+    margin-right: .25em;
+    line-height: .65em;
+    border: 4px outset black;
+    box-shadow: 2px 2px 3px;
+    box-shadow:5px,5px,5px;
+    border-top-left-radius:.2em;
+    border-bottom-right-radius:.2em;
+
+}
+
+figure img {
+    width:100%;
+}
+
+#lit div {
+    max-width: 100%;
+columns: 20rem;
+}
+
+@media screen and (min-width:100em) {
+    gallery {
+        display: grid;
+        grid-template-columns:1fr 1fr 1fr;
+    }
+}
+
