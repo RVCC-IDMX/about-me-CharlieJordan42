@@ -124,3 +124,14 @@ columns: 20rem;
     }
 }
 
+#video {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media screen and (max-width:30em) {
+    #myVideo { max-width: 80%;}
+
+}
+
