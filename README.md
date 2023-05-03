@@ -6,8 +6,9 @@
 
 ### I Chose the color scheme of the webiste  because it has the orangeish-blue contracst that I like and I find the colors pretty cool. The Text code is 05B0FE and the Background color code is F2D2BD
 ### sources I have Used
-- [W3Schools] (https://www.w3schools.com/html/html_editors.asp)
--[CodePen](https://codepen.io/psynoxious/pen/JKwOLr)
--[YoutubeVideo](https://www.youtube.com/watch?v=cfEuGlUlJj4&t=9s)
--[MozillaOrg](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
+### - [W3Schools](https://www.w3schools.com/html/html_editors.asp)
+
+### -[CodePen](https://codepen.io/psynoxious/pen/JKwOLr)
+### -[YoutubeVideo](https://www.youtube.com/watch?v=cfEuGlUlJj4&t=9s)
+### -[MozillaOrg](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
 
